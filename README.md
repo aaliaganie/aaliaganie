@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaliaganie
 - 👀 I’m interested solving real world solutions
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootsrap 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap 
 - 💞️ I’m looking to collaborate on Tourism Products
 - 📫 How to reach me here
 
